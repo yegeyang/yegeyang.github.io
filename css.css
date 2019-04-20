@@ -1,0 +1,18 @@
+h1{
+    font-size: 16px;
+    background: rgba(0,0,255,.6);
+    color: black;
+}
+
+body{
+    color: red;
+}
+li{
+    background: green;
+}
+ul li{
+    background: purple;
+}
+ul li{
+    background: yellow;
+}
